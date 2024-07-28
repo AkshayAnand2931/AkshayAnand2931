@@ -1,4 +1,4 @@
-## Akshay Anand 👋
+<h1>Akshay Anand 👋</h1>
 
 Passionate student of Computer Science Engineering with strong interests in full stack development, cloud computing and AI technologies.
 Interested in building new, innovative full stack applications.
@@ -9,19 +9,19 @@ LinkedIn Profile: https://www.linkedin.com/in/akshay-anand-99b778268/
 ![](https://komarev.com/ghpvc/?username=AkshayAnand2931)
 <hr>
 
-#Skills
-**Programming Languages**: Python, C, C++, Java, Javascript, SQL
-**Frameworks**: ReactJS, ExpressJS
-**Database Technologies**: MongoDB, PostgreSQL, MySQL
-**Cloud Technologies**: Microsoft Azure
-**Version Control**: Git, Github
+<h2>Skills</h2>
+<p>**Programming Languages**: Python, C, C++, Java, Javascript, SQL</p>
+<p>**Frameworks**: ReactJS, ExpressJS</p>
+<p>**Database Technologies**: MongoDB, PostgreSQL, MySQL</p>
+<p>**Cloud Technologies**: Microsoft Azure</p>
+<p>**Version Control**: Git, Github</p>
 
 <hr>
 
 #Projects
 <ul>
   <li>
-    <p><strong>Code-Mixed Spoken Language Identification<strong></p>
+    <p><strong>Code-Mixed Spoken Language Identification</strong></p>
     <p>Technologies Used: Python, LSTM model </p>
     <p>Developed system to identify whether the language being spoken is English, Hindi or Code-Mixed.</p>
   </li>
