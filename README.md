@@ -7,12 +7,11 @@ Curious to learn more about cloud technologies and develop new systems which mak
 </p>
 
 <p>LinkedIn Profile: https://www.linkedin.com/in/akshay-anand-99b778268/</p>
-![](https://komarev.com/ghpvc/?username=AkshayAnand2931)
 
 <hr>
 
 <h2>Skills</h2>
-<p><strong>Programming Languages</strong>: Python, C ![image](https://github.com/user-attachments/assets/a8357dae-cd42-43ad-9442-c403905da9e6)
+<p><strong>Programming Languages</strong>: Python, C <img src = 'https://github.com/user-attachments/assets/a8357dae-cd42-43ad-9442-c403905da9e6' >
 , C++, Java, Javascript, SQL</p>
 <p><strong>Frameworks</strong>: ReactJS, ExpressJS</p>
 <p><strong>Database Technologies</strong>: MongoDB, PostgreSQL, MySQL</p>
