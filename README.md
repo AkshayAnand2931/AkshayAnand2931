@@ -1,20 +1,22 @@
 <h1>Akshay Anand 👋</h1>
 
+<p>
 Passionate student of Computer Science Engineering with strong interests in full stack development, cloud computing and AI technologies.
 Interested in building new, innovative full stack applications.
 Curious to learn more about cloud technologies and develop new systems which make use of the full potential of AI technologies.
+</p>
 
-LinkedIn Profile: https://www.linkedin.com/in/akshay-anand-99b778268/
-<br>
-![](https://komarev.com/ghpvc/?username=AkshayAnand2931)
+<p>LinkedIn Profile: https://www.linkedin.com/in/akshay-anand-99b778268/</p>
+<p>![](https://komarev.com/ghpvc/?username=AkshayAnand2931)</p>
+
 <hr>
 
 <h2>Skills</h2>
-<p>**Programming Languages**: Python, C, C++, Java, Javascript, SQL</p>
-<p>**Frameworks**: ReactJS, ExpressJS</p>
-<p>**Database Technologies**: MongoDB, PostgreSQL, MySQL</p>
-<p>**Cloud Technologies**: Microsoft Azure</p>
-<p>**Version Control**: Git, Github</p>
+<p><strong>Programming Languages</strong>: Python, C, C++, Java, Javascript, SQL</p>
+<p><strong>Frameworks</strong>: ReactJS, ExpressJS</p>
+<p><strong>Database Technologies</strong>: MongoDB, PostgreSQL, MySQL</p>
+<p><strong>Cloud Technologies</strong>: Microsoft Azure</p>
+<p><strong>Version Control</strong>: Git, Github</p>
 
 <hr>
 
