@@ -11,7 +11,7 @@ Curious to learn more about cloud technologies and develop new systems which mak
 <hr>
 
 <h2>Skills</h2>
-<p><strong>Programming Languages</strong>: Python, C <img src = 'https://github.com/user-attachments/assets/a8357dae-cd42-43ad-9442-c403905da9e6' >
+<p><strong>Programming Languages</strong>: Python, C <img src = 'https://github.com/user-attachments/assets/a8357dae-cd42-43ad-9442-c403905da9e6' width = 50 height = 50>
 , C++, Java, Javascript, SQL</p>
 <p><strong>Frameworks</strong>: ReactJS, ExpressJS</p>
 <p><strong>Database Technologies</strong>: MongoDB, PostgreSQL, MySQL</p>
