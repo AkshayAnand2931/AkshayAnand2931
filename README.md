@@ -1,4 +1,13 @@
-## Hi there 👋
+## Akshay Anand 👋
+
+Passionate student of Computer Science Engineering with strong interests in full stack development, cloud computing and AI technologies.
+Interested in building new, innovative full stack applications.
+Curious to learn more about cloud technologies and develop new systems which make use of the full potential of AI technologies.
+
+LinkedIn Profile: https://www.linkedin.com/in/akshay-anand-99b778268/
+![](https://komarev.com/ghpvc/?username=AkshayAnand2931)
+
+<hr>
 
 <!--
 **AkshayAnand2931/AkshayAnand2931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
